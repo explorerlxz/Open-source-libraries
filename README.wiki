@@ -1,4 +1,4 @@
-## Open source libraries collection
+= Open source libraries collection =
 
 Forked from @programthink/opensource.
 
